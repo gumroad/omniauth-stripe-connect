@@ -138,3 +138,6 @@ Here is an example of the Auth Hash you get back from calling `request.env['omni
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Gumroad is Hiring
+We're looking for top-tier [Ruby on Rails engineers](https://gumroad.notion.site/Jobs-f43f816013b2405aa41ddefb663a4a38?ref="stripe-connect-v2") like you!
