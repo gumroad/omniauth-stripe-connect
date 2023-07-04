@@ -1,4 +1,4 @@
-# OmniAuth::StripeConnect
+# OmniAuth::StripeConnectV2
 
 Stripe Connect OAuth2 Strategy for OmniAuth 1.0.
 
@@ -9,7 +9,7 @@ Read the Stripe Connect docs for more details: https://stripe.com/connect
 
 Add this line to your application's Gemfile:
 
-    gem 'omniauth-stripe-connect'
+    gem 'omniauth-stripe-connect-v2'
 
 And then execute:
 
@@ -17,11 +17,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install omniauth-stripe-connect
+    $ gem install omniauth-stripe-connect-v2
 
 ## Usage
 
-OmniAuth::Strategies::StripeConnect is simply a Rack middleware. Read the OmniAuth
+OmniAuth::Strategies::StripeConnectV2 is simply a Rack middleware. Read the OmniAuth
 1.0 docs for detailed instructions: https://github.com/intridea/omniauth.
 
 ### Non-Devise
