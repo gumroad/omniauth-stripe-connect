@@ -1,2 +1,2 @@
-require "omniauth-stripe-connect/version"
-require 'omniauth/stripe_connect'
+require "omniauth-stripe-connect-v2/version"
+require 'omniauth/stripe_connect_v2'
