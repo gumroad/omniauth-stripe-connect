@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-OmniAuth::Strategies::StripeConnectV2 is simply a Rack middleware. Read the OmniAuth
+OmniAuth::Strategies::StripeConnect is simply a Rack middleware. Read the OmniAuth
 1.0 docs for detailed instructions: https://github.com/intridea/omniauth.
 
 ### Non-Devise

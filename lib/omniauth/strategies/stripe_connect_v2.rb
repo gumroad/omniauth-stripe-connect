@@ -2,8 +2,8 @@ require 'omniauth/strategies/oauth2'
 
 module OmniAuth
   module Strategies
-    class StripeConnectV2 < OmniAuth::Strategies::OAuth2
-      option :name, :stripe_connect_v2
+    class StripeConnect < OmniAuth::Strategies::OAuth2
+      option :name, :stripe_connect
 
       option :client_options, {
         :site => 'https://connect.stripe.com'

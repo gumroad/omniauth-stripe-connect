@@ -1,1 +1,1 @@
-require 'omniauth/strategies/stripe_connect_v2'
+require 'omniauth/strategies/stripe_connect'
